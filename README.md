@@ -11,6 +11,9 @@ Differences from Chris Driscoll's version:
   * Used a 1-Wire DS18B20 temperature sensor, supported by WebIOPi
 * Less Doge...because I am boring. :-/
 
+# Screenshot
+[Garage Door Pi Screenshot from an iPhone](http://www.techsneeze.com/wp-content/uploads/2016/03/garage-door-pi_screenshot1.png)
+
 # Installation
 
 1. Follow [Chris Driscoll's Guide](http://www.driscocity.com/idiots-guide-to-a-raspberry-pi-garage-door-opener/).
